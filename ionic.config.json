@@ -1,0 +1,7 @@
+{
+  "name": "hdv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
